@@ -7,3 +7,5 @@ $ git clone https://github.com/BilbaoDataLab/git-intro
 
 Pon en la columna A tu nombre de usuario de Github.com para darte permisos de edición en este repositorio:
 https://docs.google.com/spreadsheets/d/1KdEIsxDwNQjuseTTRoZbLinJYH5hsyZ9Jszy1dO0smI/edit#gid=0
+
+Este cambio lo he hecho en github.
